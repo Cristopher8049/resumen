@@ -1,6 +1,5 @@
 # Software Engineering at Google - Chapter 1 Summary
 
-**Student Name:** [Your Name]
 
 ## Chapter 1: What Is Software Engineering?
 
